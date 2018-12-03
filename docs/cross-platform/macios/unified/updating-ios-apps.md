@@ -34,7 +34,7 @@ You'll need to agree to this warning before the automated migration will run (ob
 
 ![](updating-ios-apps-images/beta-tool2.png "Agree to this warning before the automated migration will run")
 
-The tool basically automates all the steps outlined in the **Update Manually** section presented below and is the suggested method of converting an existing Xamarin.iOS project to the Unified API.
+The tool automates all the steps outlined in the **Update Manually** section presented below and is the suggested method of converting an existing Xamarin.iOS project to the Unified API.
 
 ## Steps to Update Manually
 
